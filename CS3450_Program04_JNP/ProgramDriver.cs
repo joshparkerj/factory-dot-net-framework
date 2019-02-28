@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+* ProgramDriver
+* Reads resolution setting from res.ini file.
+* Reads widget names from Widgets.txt file.
+* Reads document names from Documents.txt file.
+* Displays all widgets and prints all documents.
+*/
+using System;
 using System.Collections.Generic;
 using System.IO;
 

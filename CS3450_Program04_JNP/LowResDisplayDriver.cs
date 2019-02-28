@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+* LowResDisplayDriver
+* This is a singleton.
+* Its uniqueInstance is returned by the LowResRenderFactory's GetDisplayDriver method.
+*/
+using System;
 
 namespace CS3450_Program04_JNP
 {

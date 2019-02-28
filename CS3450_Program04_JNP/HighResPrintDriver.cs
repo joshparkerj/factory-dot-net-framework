@@ -1,4 +1,9 @@
-﻿using System;
+﻿/**
+* HighResPrintDriver
+* This is a singleton.
+* Its uniqueInstance is returned by the HighResRenderFactory's GetPrintDriver method.
+*/
+using System;
 
 namespace CS3450_Program04_JNP
 {
